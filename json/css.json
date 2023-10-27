@@ -1,0 +1,271 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheet",
+    "answer_2": "Creative Style Sheet",
+    "answer_3": "Computer Style Sheet",
+    "answer_4": "Colorful Style Sheet",
+    "right_answer": "Cascading Style Sheet"
+  },
+
+  {
+    "title": "How can you include an external CSS file in an HTML document?",
+    "answer_1": "<style src='styles.css'>",
+    "answer_2": "<link rel='stylesheet' type='text/css' href='styles.css'>",
+    "answer_3": "<css src='styles.css'>",
+    "answer_4": "<include src='styles.css'>",
+    "right_answer": "<link rel='stylesheet' type='text/css' href='styles.css'>"
+  },
+
+  {
+    "title": "Which CSS property is used to change the text color of an element?",
+    "answer_1": "text-color",
+    "answer_2": "color",
+    "answer_3": "text-style",
+    "answer_4": "font-color",
+    "right_answer": "color"
+  },
+
+  {
+    "title": "What is the purpose of the 'display' property in CSS?",
+    "answer_1": "It sets the background color of an element",
+    "answer_2": "It controls the visibility of an element",
+    "answer_3": "It defines how an element should be displayed",
+    "answer_4": "It changes the font size of an element",
+    "right_answer": "It defines how an element should be displayed"
+  },
+
+  {
+    "title": "Which CSS property is used to add space outside the border of an element?",
+    "answer_1": "padding",
+    "answer_2": "border-spacing",
+    "answer_3": "margin",
+    "answer_4": "spacing",
+    "right_answer": "margin"
+  },
+
+  {
+    "title": "What is the 'box model' in CSS?",
+    "answer_1": "A model of a cube rendered in 3D",
+    "answer_2": "A way to create boxes in HTML",
+    "answer_3": "A way to visualize HTML elements as rectangular boxes with content, padding, border, and margin",
+    "answer_4": "A way to style text with boxes",
+    "right_answer": "A way to visualize HTML elements as rectangular boxes with content, padding, border, and margin"
+  },
+
+  {
+    "title": "Which CSS property is used to make text bold?",
+    "answer_1": "text-weight",
+    "answer_2": "font-weight",
+    "answer_3": "bold-text",
+    "answer_4": "text-bold",
+    "right_answer": "font-weight"
+  },
+
+  {
+    "title": "How do you change the background color of an element using CSS?",
+    "answer_1": "background-color: #FF0000;",
+    "answer_2": "bg-color: #FF0000;",
+    "answer_3": "color: #FF0000;",
+    "answer_4": "background: #FF0000;",
+    "right_answer": "background-color: #FF0000;"
+  },
+
+  {
+    "title": "What is the CSS property used to control the spacing between lines of text?",
+    "answer_1": "line-height",
+    "answer_2": "spacing-line",
+    "answer_3": "text-spacing",
+    "answer_4": "line-spacing",
+    "right_answer": "line-height"
+  },
+
+  {
+    "title": "Which CSS property is used to create rounded corners for an element?",
+    "answer_1": "border-radius",
+    "answer_2": "corner-radius",
+    "answer_3": "rounded-corners",
+    "answer_4": "element-radius",
+    "right_answer": "border-radius"
+  },
+
+  {
+    "title": "What does 'CSS specificity' refer to?",
+    "answer_1": "The order in which CSS rules are applied",
+    "answer_2": "The importance of CSS in web development",
+    "answer_3": "The way CSS rules are combined and the most specific rule is applied",
+    "answer_4": "The choice of CSS frameworks",
+    "right_answer": "The way CSS rules are combined and the most specific rule is applied"
+  },
+
+  {
+    "title": "What is the purpose of the 'float' property in CSS?",
+    "answer_1": "To add a floating image on a web page",
+    "answer_2": "To move an element to the left or right, allowing text to flow around it",
+    "answer_3": "To create animated floating text",
+    "answer_4": "To make an element invisible",
+    "right_answer": "To move an element to the left or right, allowing text to flow around it"
+  },
+
+  {
+    "title": "How can you center an element horizontally in CSS?",
+    "answer_1": "text-align: center;",
+    "answer_2": "horizontal-align: center;",
+    "answer_3": "margin-left: auto; margin-right: auto;",
+    "answer_4": "center: horizontal;",
+    "right_answer": "margin-left: auto; margin-right: auto;"
+  },
+
+  {
+    "title": "What is the purpose of the 'position' property in CSS?",
+    "answer_1": "To change the font style of an element",
+    "answer_2": "To control the positioning of an element in a document",
+    "answer_3": "To set the background color of an element",
+    "answer_4": "To determine the font size of an element",
+    "right_answer": "To control the positioning of an element in a document"
+  },
+
+  {
+    "title": "What is the CSS property used to make text italic?",
+    "answer_1": "text-style",
+    "answer_2": "font-style",
+    "answer_3": "italic-text",
+    "answer_4": "text-italic",
+    "right_answer": "font-style"
+  },
+
+  {
+    "title": "What is the purpose of the 'z-index' property in CSS?",
+    "answer_1": "To change the font size",
+    "answer_2": "To control the stacking order of elements",
+    "answer_3": "To set the background color",
+    "answer_4": "To create a 3D effect",
+    "right_answer": "To control the stacking order of elements"
+  },
+
+  {
+    "title": "Which CSS property is used to control the size of an element's font?",
+    "answer_1": "font-size",
+    "answer_2": "text-size",
+    "answer_3": "size",
+    "answer_4": "font",
+    "right_answer": "font-size"
+  },
+
+  {
+    "title": "What is the CSS property used to control the text transformation to uppercase?",
+    "answer_1": "text-transform: uppercase;",
+    "answer_2": "uppercase-text: transform;",
+    "answer_3": "transform: text-uppercase;",
+    "answer_4": "text-uppercase: transform;",
+    "right_answer": "text-transform: uppercase;"
+  },
+
+  {
+    "title": "What does the 'box-sizing' property in CSS control?",
+    "answer_1": "The size of the HTML document",
+    "answer_2": "The size of elements within a box",
+    "answer_3": "The spacing between elements",
+    "answer_4": "The border thickness",
+    "right_answer": "The size of elements within a box"
+  },
+
+  {
+    "title": "What is the CSS property used to remove the underlines from hyperlinks?",
+    "answer_1": "text-decoration: underline-off;",
+    "answer_2": "remove-underline: true;",
+    "answer_3": "text-decoration: none;",
+    "answer_4": "underline: none;",
+    "right_answer": "text-decoration: none;"
+  },
+
+  {
+    "title": "What is the purpose of the 'opacity' property in CSS?",
+    "answer_1": "To make an element transparent",
+    "answer_2": "To change the font color",
+    "answer_3": "To create rounded corners",
+    "answer_4": "To add a shadow to an element",
+    "right_answer": "To make an element transparent"
+  },
+
+  {
+    "title": "How can you select all paragraphs with the class 'special' in CSS?",
+    "answer_1": "p.special",
+    "answer_2": ".special p",
+    "answer_3": "special p",
+    "answer_4": "#special p",
+    "right_answer": "p.special"
+  },
+
+  {
+    "title": "Which CSS property is used to set the text alignment to justify?",
+    "answer_1": "text-align: justify;",
+    "answer_2": "justify-text: align;",
+    "answer_3": "align-text: justify;",
+    "answer_4": "text-justify: true;",
+    "right_answer": "text-align: justify;"
+  },
+
+  {
+    "title": "What is the purpose of the 'overflow' property in CSS?",
+    "answer_1": "To hide the content that overflows an element's box",
+    "answer_2": "To make an element visible",
+    "answer_3": "To control the content's overflow on a webpage",
+    "answer_4": "To add a scrollbar to an element",
+    "right_answer": "To hide the content that overflows an element's box"
+  },
+
+  {
+    "title": "What is the CSS property used to add a shadow to an element?",
+    "answer_1": "shadow: add;",
+    "answer_2": "element-shadow: true;",
+    "answer_3": "box-shadow: 5px 5px 5px #888888;",
+    "answer_4": "add-shadow: box;",
+    "right_answer": "box-shadow: 5px 5px 5px #888888;"
+  },
+
+  {
+    "title": "Which CSS property is used to control the order of elements in a flex container?",
+    "answer_1": "order",
+    "answer_2": "element-order",
+    "answer_3": "flex-order",
+    "answer_4": "item-order",
+    "right_answer": "order"
+  },
+
+  {
+    "title": "What does 'CSS pseudo-classes' refer to?",
+    "answer_1": "Special classes that can only be defined in CSS",
+    "answer_2": "Classes with pseudonyms",
+    "answer_3": "Classes that are added to the HTML document",
+    "answer_4": "Classes that represent an element in a special state",
+    "right_answer": "Classes that represent an element in a special state"
+  },
+
+  {
+    "title": "What is the purpose of the 'transition' property in CSS?",
+    "answer_1": "To create animations and transitions for elements",
+    "answer_2": "To define a new transition in a webpage",
+    "answer_3": "To change the color of text",
+    "answer_4": "To transition from one webpage to another",
+    "right_answer": "To create animations and transitions for elements"
+  },
+
+  {
+    "title": "Which CSS property is used to add a background image to an element?",
+    "answer_1": "background-image",
+    "answer_2": "image-background",
+    "answer_3": "element-image",
+    "answer_4": "add-image",
+    "right_answer": "background-image"
+  },
+
+  {
+    "title": "What is the purpose of the 'text-shadow' property in CSS?",
+    "answer_1": "To add a shadow to an entire webpage",
+    "answer_2": "To create a shadow behind text",
+    "answer_3": "To add a shadow to the border of an element",
+    "answer_4": "To add a shadow to the background",
+    "right_answer": "To create a shadow behind text"
+  }
+]

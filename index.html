@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="images/head.png" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz Application</title>
+  </head>
+  <body>
+    <div class="form">
+      <select name="categories">
+        <option value="html.json">html</option>
+        <option value="css.json">css</option>
+        <option value="js.json">js</option>
+        <option value="python.json">python</option>
+      </select>
+      <select name="timer" class="timer-select">
+        <option value="5">choose timer</option>
+        <option value="3">3 secondes</option>
+        <option value="5">5 secondes</option>
+        <option value="10">10 secondes</option>
+      </select>
+      <button class="start">start</button>
+    </div>
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="topbar">
+        <p>category : <span class="category"></span></p>
+        <p>questions : <span class="ques-nb"></span></p>
+      </div>
+      <div class="quiz-content">
+        <h2></h2>
+        <div class="list-answers"></div>
+      </div>
+      <button class="submit">submit answer</button>
+      <div class="time-and-bullets">
+        <div class="bullets"></div>
+        <div class="timer"><span>00</span>:<span class="seconds">00</span></div>
+      </div>
+      <div class="result">
+        <span class="msg"></span>, you have <span class="right-answer"></span> /
+        <span class="ques-nb"></span>
+      </div>
+      <button class="reset">reset</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

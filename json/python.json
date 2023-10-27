@@ -1,0 +1,271 @@
+[
+  {
+    "title": "What does the 'print' function do in Python?",
+    "answer_1": "Prints a message to the console",
+    "answer_2": "Defines a new variable",
+    "answer_3": "Pauses the program execution",
+    "answer_4": "Closes the program",
+    "right_answer": "Prints a message to the console"
+  },
+
+  {
+    "title": "How do you declare a variable in Python?",
+    "answer_1": "variable myVar;",
+    "answer_2": "var myVar;",
+    "answer_3": "myVar = value",
+    "answer_4": "myVar = None",
+    "right_answer": "myVar = value"
+  },
+
+  {
+    "title": "What is the result of 5 + 3 in Python?",
+    "answer_1": "53",
+    "answer_2": "8",
+    "answer_3": "Error",
+    "answer_4": "35",
+    "right_answer": "8"
+  },
+
+  {
+    "title": "What is the purpose of the 'len()' function in Python?",
+    "answer_1": "To define the length of a string",
+    "answer_2": "To determine the length of a list or string",
+    "answer_3": "To create a new list",
+    "answer_4": "To find the largest number in a list",
+    "right_answer": "To determine the length of a list or string"
+  },
+
+  {
+    "title": "How do you write a single-line comment in Python?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "# This is a comment",
+    "answer_4": "-- This is a comment",
+    "right_answer": "# This is a comment"
+  },
+
+  {
+    "title": "What is the operator used for exponentiation in Python?",
+    "answer_1": "^",
+    "answer_2": "",
+    "answer_3": "^^",
+    "answer_4": "exp",
+    "right_answer": ""
+  },
+
+  {
+    "title": "What is the purpose of a 'for' loop in Python?",
+    "answer_1": "To define a function",
+    "answer_2": "To create conditional statements",
+    "answer_3": "To iterate over a sequence or iterable",
+    "answer_4": "To declare a variable",
+    "right_answer": "To iterate over a sequence or iterable"
+  },
+
+  {
+    "title": "How do you create an empty list in Python?",
+    "answer_1": "list.empty()",
+    "answer_2": "list[]",
+    "answer_3": "list = {}",
+    "answer_4": "list = []",
+    "right_answer": "list = []"
+  },
+
+  {
+    "title": "What is the purpose of the 'input()' function in Python?",
+    "answer_1": "To define user input",
+    "answer_2": "To calculate square roots",
+    "answer_3": "To create a new variable",
+    "answer_4": "To display a message on the screen",
+    "right_answer": "To define user input"
+  },
+
+  {
+    "title": "How do you check if a value is in a list in Python?",
+    "answer_1": "if value in list:",
+    "answer_2": "if list.contains(value):",
+    "answer_3": "if list.hasValue(value):",
+    "answer_4": "if value == list:",
+    "right_answer": "if value in list:"
+  },
+
+  {
+    "title": "What is the purpose of the 'else' statement in Python?",
+    "answer_1": "To define a new variable",
+    "answer_2": "To execute code when a condition is true",
+    "answer_3": "To execute code when a condition is false",
+    "answer_4": "To create a loop",
+    "right_answer": "To execute code when a condition is false"
+  },
+
+  {
+    "title": "What is the result of 5 == '5' in Python?",
+    "answer_1": "True",
+    "answer_2": "False",
+    "answer_3": "Error",
+    "answer_4": "Undefined",
+    "right_answer": "False"
+  },
+
+  {
+    "title": "What is the purpose of the 'return' statement in a Python function?",
+    "answer_1": "To define a variable",
+    "answer_2": "To call another function",
+    "answer_3": "To exit the function and specify a value to be returned to the caller",
+    "answer_4": "To create a comment",
+    "right_answer": "To exit the function and specify a value to be returned to the caller"
+  },
+
+  {
+    "title": "How do you open and read a file in Python?",
+    "answer_1": "file.open('myfile.txt', 'r')",
+    "answer_2": "open('myfile.txt', 'read')",
+    "answer_3": "file.read('myfile.txt')",
+    "answer_4": "open('myfile.txt', 'r')",
+    "right_answer": "open('myfile.txt', 'r')"
+  },
+
+  {
+    "title": "What is the purpose of the 'import' statement in Python?",
+    "answer_1": "To create a new module",
+    "answer_2": "To import and use external modules or libraries",
+    "answer_3": "To define a new function",
+    "answer_4": "To create a class",
+    "right_answer": "To import and use external modules or libraries"
+  },
+
+  {
+    "title": "What is the purpose of the 'self' keyword in Python?",
+    "answer_1": "To refer to the current class",
+    "answer_2": "To define a new variable",
+    "answer_3": "To create a loop",
+    "answer_4": "To execute a function",
+    "right_answer": "To refer to the current class"
+  },
+
+  {
+    "title": "What is the result of '5' + '3' in Python?",
+    "answer_1": "8",
+    "answer_2": "53",
+    "answer_3": "Error",
+    "answer_4": "35",
+    "right_answer": "53"
+  },
+
+  {
+    "title": "What is the purpose of the 'json.dumps()' method in Python?",
+    "answer_1": "To decode a JSON string",
+    "answer_2": "To create a new JSON string",
+    "answer_3": "To parse and convert a JSON string into a Python object",
+    "answer_4": "To validate Python code",
+    "right_answer": "To create a new JSON string"
+  },
+
+  {
+    "title": "What is the Python 'None' value used for?",
+    "answer_1": "Representing infinity",
+    "answer_2": "Storing large numbers",
+    "answer_3": "Representing a missing or null value",
+    "answer_4": "Creating random values",
+    "right_answer": "Representing a missing or null value"
+  },
+
+  {
+    "title": "What is the purpose of the 'try...except' statement in Python?",
+    "answer_1": "To create a new function",
+    "answer_2": "To execute code regardless of errors",
+    "answer_3": "To catch and handle exceptions or errors",
+    "answer_4": "To define a new variable",
+    "right_answer": "To catch and handle exceptions or errors"
+  },
+
+  {
+    "title": "What is a 'list comprehension' in Python?",
+    "answer_1": "A list of Python keywords",
+    "answer_2": "A way to generate lists using a single line of code",
+    "answer_3": "A list of reserved variable names",
+    "answer_4": "A list of built-in Python functions",
+    "right_answer": "A way to generate lists using a single line of code"
+  },
+
+  {
+    "title": "How do you create a new class in Python?",
+    "answer_1": "class MyClass = {}",
+    "answer_2": "create class MyClass:",
+    "answer_3": "class MyClass():",
+    "answer_4": "new class MyClass():",
+    "right_answer": "class MyClass:"
+  },
+
+  {
+    "title": "What is the purpose of the 'break' statement in Python?",
+    "answer_1": "To exit a loop or switch statement",
+    "answer_2": "To pause the execution of a script",
+    "answer_3": "To create a new variable",
+    "answer_4": "To add a line break in text",
+    "right_answer": "To exit a loop or switch statement"
+  },
+
+  {
+    "title": "How do you round a number to a specified number of decimal places in Python?",
+    "answer_1": "round(number, decimal_places)",
+    "answer_2": "number.round(decimal_places)",
+    "answer_3": "decimal_places.round(number)",
+    "answer_4": "number.toFixed(decimal_places)",
+    "right_answer": "round(number, decimal_places)"
+  },
+
+  {
+    "title": "What is the purpose of the 'sys' module in Python?",
+    "answer_1": "To access system-specific parameters and functions",
+    "answer_2": "To perform mathematical operations",
+    "answer_3": "To create user interfaces",
+    "answer_4": "To manipulate strings",
+    "right_answer": "To access system-specific parameters and functions"
+  },
+
+  {
+    "title": "How do you remove an item from a list in Python?",
+    "answer_1": "list.remove(item)",
+    "answer_2": "list.delete(item)",
+    "answer_3": "list.pop(item)",
+    "answer_4": "list.discard(item)",
+    "right_answer": "list.remove(item)"
+  },
+
+  {
+    "title": "What is the purpose of the 'zip()' function in Python?",
+    "answer_1": "To zip or compress files",
+    "answer_2": "To create a new directory",
+    "answer_3": "To combine two or more iterable objects into a single iterable",
+    "answer_4": "To calculate the average of a list",
+    "right_answer": "To combine two or more iterable objects into a single iterable"
+  },
+
+  {
+    "title": "What is the Python 'lambda' function used for?",
+    "answer_1": "To create anonymous functions",
+    "answer_2": "To define classes",
+    "answer_3": "To import modules",
+    "answer_4": "To declare variables",
+    "right_answer": "To create anonymous functions"
+  },
+
+  {
+    "title": "How do you sort a list in Python in descending order?",
+    "answer_1": "list.sort(ascending=False)",
+    "answer_2": "list.sort(reverse=True)",
+    "answer_3": "list.reverse()",
+    "answer_4": "list.sort()",
+    "right_answer": "list.sort(reverse=True)"
+  },
+
+  {
+    "title": "What is the purpose of the 'random.choice()' function in Python?",
+    "answer_1": "To make a random choice between two options",
+    "answer_2": "To select a random item from a sequence",
+    "answer_3": "To create random integers",
+    "answer_4": "To choose between 'True' and 'False'",
+    "right_answer": "To select a random item from a sequence"
+  }
+]

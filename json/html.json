@@ -1,0 +1,271 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Makeup Language",
+    "answer_2": "Hyperlink and Text Markup Language",
+    "answer_3": "Hyper Text Markup Language",
+    "answer_4": "Highly Technical Markup Language",
+    "right_answer": "answer_3"
+  },
+
+  {
+    "title": "Which HTML tag is used to create a hyperlink?",
+    "answer_1": "<link>",
+    "answer_2": "<a>",
+    "answer_3": "<hyperlink>",
+    "answer_4": "<url>",
+    "right_answer": "answer_2"
+  },
+
+  {
+    "title": "What is the correct HTML element for the largest heading?",
+    "answer_1": "<h1>",
+    "answer_2": "<head>",
+    "answer_3": "<h6>",
+    "answer_4": "<heading>",
+    "right_answer": "answer_1"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating an unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<li>",
+    "answer_3": "<ul>",
+    "answer_4": "<list>",
+    "right_answer": "answer_3"
+  },
+
+  {
+    "title": "What does the HTML <br> element represent?",
+    "answer_1": "A bold text",
+    "answer_2": "A line break",
+    "answer_3": "A bullet point",
+    "answer_4": "A horizontal rule",
+    "right_answer": "answer_2"
+  },
+
+  {
+    "title": "Which HTML tag is used to define an image?",
+    "answer_1": "<img>",
+    "answer_2": "<image>",
+    "answer_3": "<picture>",
+    "answer_4": "<src>",
+    "right_answer": "answer_1"
+  },
+
+  {
+    "title": "In HTML, which tag is used for creating a table?",
+    "answer_1": "<tbl>",
+    "answer_2": "<table>",
+    "answer_3": "<tr>",
+    "answer_4": "<tab>",
+    "right_answer": "answer_2"
+  },
+
+  {
+    "title": "What is the correct HTML for creating a hyperlink to an external website?",
+    "answer_1": "<a href='http://www.example.com'>Click here</a>",
+    "answer_2": "<a src='http://www.example.com'>Click here</a>",
+    "answer_3": "<a link='http://www.example.com'>Click here</a>",
+    "answer_4": "<a url='http://www.example.com'>Click here</a>",
+    "right_answer": "answer_1"
+  },
+
+  {
+    "title": "Which HTML tag is used to make text italic?",
+    "answer_1": "<italic>",
+    "answer_2": "<i>",
+    "answer_3": "<em>",
+    "answer_4": "<italics>",
+    "right_answer": "answer_2"
+  },
+
+  {
+    "title": "What is the correct HTML element for creating a numbered list?",
+    "answer_1": "<nl>",
+    "answer_2": "<ol>",
+    "answer_3": "<ul>",
+    "answer_4": "<li>",
+    "right_answer": "answer_2"
+  },
+
+  {
+    "title": "Which HTML tag is used to create a line break?",
+    "answer_1": "<lb>",
+    "answer_2": "<break>",
+    "answer_3": "<brk>",
+    "answer_4": "<br>",
+    "right_answer": "answer_4"
+  },
+
+  {
+    "title": "What does the HTML <p> element represent?",
+    "answer_1": "Paragraph",
+    "answer_2": "Page",
+    "answer_3": "Preformatted text",
+    "answer_4": "Picture",
+    "right_answer": "answer_1"
+  },
+
+  {
+    "title": "In HTML, which tag is used to emphasize text without indicating any specific importance?",
+    "answer_1": "<i>",
+    "answer_2": "<em>",
+    "answer_3": "<strong>",
+    "answer_4": "<b>",
+    "right_answer": "answer_1"
+  },
+
+  {
+    "title": "Which HTML tag is used to create a hyperlink to an email address?",
+    "answer_1": "<mail>",
+    "answer_2": "<email>",
+    "answer_3": "<a>",
+    "answer_4": "<link>",
+    "right_answer": "answer_3"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <meta> tag?",
+    "answer_1": "To create a paragraph",
+    "answer_2": "To define metadata about an HTML document",
+    "answer_3": "To display images",
+    "answer_4": "To insert a video",
+    "right_answer": "answer_2"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating a horizontal line?",
+    "answer_1": "<line>",
+    "answer_2": "<hr>",
+    "answer_3": "<horizontal>",
+    "answer_4": "<hl>",
+    "right_answer": "<hr>"
+  },
+
+  {
+    "title": "How can you comment out multiple lines in HTML?",
+    "answer_1": "<!-- This is a comment -->",
+    "answer_2": "// This is a comment",
+    "answer_3": "/* This is a comment */",
+    "answer_4": "# This is a comment",
+    "right_answer": "<!-- This is a comment -->"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <div> element?",
+    "answer_1": "To define a division or a section in an HTML document",
+    "answer_2": "To create a hyperlink",
+    "answer_3": "To insert a line break",
+    "answer_4": "To define a definition list",
+    "right_answer": "To define a division or a section in an HTML document"
+  },
+
+  {
+    "title": "Which HTML element is used for defining the structure of an HTML document?",
+    "answer_1": "<body>",
+    "answer_2": "<head>",
+    "answer_3": "<structure>",
+    "answer_4": "<html>",
+    "right_answer": "<html>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <span> element?",
+    "answer_1": "To create a block-level element",
+    "answer_2": "To apply inline styles to a part of the text",
+    "answer_3": "To define a navigation menu",
+    "answer_4": "To create a table",
+    "right_answer": "To apply inline styles to a part of the text"
+  },
+
+  {
+    "title": "Which HTML tag is used to create a subscript text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<subtext>",
+    "answer_4": "<st>",
+    "right_answer": "<sub>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <ol> element?",
+    "answer_1": "To define a block of text",
+    "answer_2": "To create a numbered list",
+    "answer_3": "To insert an image",
+    "answer_4": "To define a link",
+    "right_answer": "To create a numbered list"
+  },
+
+  {
+    "title": "Which HTML tag is used to create a superscript text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<super>",
+    "answer_4": "<st>",
+    "right_answer": "<sup>"
+  },
+
+  {
+    "title": "What does HTML5 introduce to improve the structure of web documents?",
+    "answer_1": "New programming languages",
+    "answer_2": "New video formats",
+    "answer_3": "New elements and semantic tags",
+    "answer_4": "New image compression techniques",
+    "right_answer": "New elements and semantic tags"
+  },
+
+  {
+    "title": "What is the correct way to add a comment in HTML?",
+    "answer_1": "// This is a comment",
+    "answer_2": "<comment>This is a comment</comment>",
+    "answer_3": "/* This is a comment */",
+    "answer_4": "<!-- This is a comment -->",
+    "right_answer": "<!-- This is a comment -->"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating a hyperlink to a different section of the same page?",
+    "answer_1": "<a href='#section2'>Link to Section 2</a>",
+    "answer_2": "<link href='#section2'>Link to Section 2</link>",
+    "answer_3": "<a src='#section2'>Link to Section 2</a>",
+    "answer_4": "<hyperlink href='#section2'>Link to Section 2</hyperlink>",
+    "right_answer": "<a href='#section2'>Link to Section 2</a>"
+  },
+
+  {
+    "title": "What does the HTML <canvas> element allow you to do?",
+    "answer_1": "Embed audio files",
+    "answer_2": "Create interactive graphics and animations",
+    "answer_3": "Style text with different fonts",
+    "answer_4": "Define page structure",
+    "right_answer": "Create interactive graphics and animations"
+  },
+
+  {
+    "title": "Which HTML tag is used to create a definition list?",
+    "answer_1": "<list>",
+    "answer_2": "<dl>",
+    "answer_3": "<dt>",
+    "answer_4": "<dd>",
+    "right_answer": "<dl>"
+  },
+
+  {
+    "title": "What is the correct way to insert a line break within a paragraph in HTML?",
+    "answer_1": "<lb>",
+    "answer_2": "<line-break>",
+    "answer_3": "<br>",
+    "answer_4": "<newline>",
+    "right_answer": "<br>"
+  },
+
+  {
+    "title": "Which HTML element is used for defining the title of an HTML document?",
+    "answer_1": "<header>",
+    "answer_2": "<title>",
+    "answer_3": "<h1>",
+    "answer_4": "<meta>",
+    "right_answer": "<title>"
+  }
+]

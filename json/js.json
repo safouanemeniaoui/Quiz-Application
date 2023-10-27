@@ -1,0 +1,271 @@
+[
+  {
+    "title": "What does JavaScript (JS) stand for?",
+    "answer_1": "Java Script",
+    "answer_2": "JScript",
+    "answer_3": "JavaScript",
+    "answer_4": "JustScript",
+    "right_answer": "JavaScript"
+  },
+
+  {
+    "title": "How do you declare a variable in JavaScript?",
+    "answer_1": "v myVar;",
+    "answer_2": "var myVar;",
+    "answer_3": "variable myVar;",
+    "answer_4": "let myVar;",
+    "right_answer": "var myVar;"
+  },
+
+  {
+    "title": "What is the result of 3 + '3' in JavaScript?",
+    "answer_1": "33",
+    "answer_2": "6",
+    "answer_3": "Error",
+    "answer_4": "333",
+    "right_answer": "33"
+  },
+
+  {
+    "title": "What is the purpose of the 'typeof' operator in JavaScript?",
+    "answer_1": "To compare two values",
+    "answer_2": "To determine the data type of a value",
+    "answer_3": "To create a new variable",
+    "answer_4": "To concatenate strings",
+    "right_answer": "To determine the data type of a value"
+  },
+
+  {
+    "title": "How do you write a single-line comment in JavaScript?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "# This is a comment",
+    "answer_4": "-- This is a comment",
+    "right_answer": "// This is a comment"
+  },
+
+  {
+    "title": "Which operator is used for equality comparison in JavaScript?",
+    "answer_1": "==",
+    "answer_2": "=",
+    "answer_3": "===",
+    "answer_4": "===",
+    "right_answer": "==="
+  },
+
+  {
+    "title": "What is the purpose of the 'for' loop in JavaScript?",
+    "answer_1": "To define a function",
+    "answer_2": "To create conditional statements",
+    "answer_3": "To execute a block of code repeatedly",
+    "answer_4": "To declare a variable",
+    "right_answer": "To execute a block of code repeatedly"
+  },
+
+  {
+    "title": "How do you create an array in JavaScript?",
+    "answer_1": "array myArray = [];",
+    "answer_2": "new Array = myArray();",
+    "answer_3": "let myArray = new Array();",
+    "answer_4": "let myArray = [];",
+    "right_answer": "let myArray = [];"
+  },
+
+  {
+    "title": "What is the JavaScript function 'parseInt()' used for?",
+    "answer_1": "Converting a string to an integer",
+    "answer_2": "Declaring a new variable",
+    "answer_3": "Multiplying two numbers",
+    "answer_4": "Returning a random value",
+    "right_answer": "Converting a string to an integer"
+  },
+
+  {
+    "title": "How do you add a new property to an object in JavaScript?",
+    "answer_1": "object.newProperty = value;",
+    "answer_2": "add property to object;",
+    "answer_3": "object.prototype.newProperty = value;",
+    "answer_4": "object['newProperty'] = value;",
+    "right_answer": "object['newProperty'] = value;"
+  },
+
+  {
+    "title": "What is the purpose of the 'else' statement in JavaScript?",
+    "answer_1": "To define a new variable",
+    "answer_2": "To execute code when a condition is true",
+    "answer_3": "To execute code when a condition is false",
+    "answer_4": "To create a loop",
+    "right_answer": "To execute code when a condition is false"
+  },
+
+  {
+    "title": "What is the result of 5 == '5' in JavaScript?",
+    "answer_1": "True",
+    "answer_2": "False",
+    "answer_3": "Error",
+    "answer_4": "Undefined",
+    "right_answer": "True"
+  },
+
+  {
+    "title": "What is the purpose of the 'return' statement in a JavaScript function?",
+    "answer_1": "To define a variable",
+    "answer_2": "To call another function",
+    "answer_3": "To exit the function and specify a value to be returned to the caller",
+    "answer_4": "To create a comment",
+    "right_answer": "To exit the function and specify a value to be returned to the caller"
+  },
+
+  {
+    "title": "How do you select an HTML element with the id 'myElement' in JavaScript?",
+    "answer_1": "document.getElementByClass('myElement')",
+    "answer_2": "document.querySelector('#myElement')",
+    "answer_3": "document.select('myElement')",
+    "answer_4": "document.getElementById('myElement')",
+    "right_answer": "document.getElementById('myElement')"
+  },
+
+  {
+    "title": "What is the purpose of the 'addEventListener' method in JavaScript?",
+    "answer_1": "To create a new element",
+    "answer_2": "To add an event listener to an element",
+    "answer_3": "To define a new function",
+    "answer_4": "To remove an element",
+    "right_answer": "To add an event listener to an element"
+  },
+
+  {
+    "title": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answer_1": "To define a new variable",
+    "answer_2": "To refer to the current object",
+    "answer_3": "To create a loop",
+    "answer_4": "To call a function",
+    "right_answer": "To refer to the current object"
+  },
+
+  {
+    "title": "What is the result of '5' + 5 in JavaScript?",
+    "answer_1": "10",
+    "answer_2": "55",
+    "answer_3": "Error",
+    "answer_4": "Undefined",
+    "right_answer": "55"
+  },
+
+  {
+    "title": "What is the purpose of the 'JSON.parse()' method in JavaScript?",
+    "answer_1": "To parse and convert a JSON string into a JavaScript object",
+    "answer_2": "To create a new JSON string",
+    "answer_3": "To define a new function",
+    "answer_4": "To validate HTML code",
+    "right_answer": "To parse and convert a JSON string into a JavaScript object"
+  },
+
+  {
+    "title": "What is the JavaScript 'typeof' for an undefined variable?",
+    "answer_1": "number",
+    "answer_2": "undefined",
+    "answer_3": "string",
+    "answer_4": "null",
+    "right_answer": "undefined"
+  },
+
+  {
+    "title": "How do you check if a variable is an array in JavaScript?",
+    "answer_1": "isArray(myVar);",
+    "answer_2": "myVar.isArray();",
+    "answer_3": "typeof myVar === 'array';",
+    "answer_4": "Array.isArray(myVar);",
+    "right_answer": "Array.isArray(myVar);"
+  },
+
+  {
+    "title": "What is the JavaScript 'NaN' value used for?",
+    "answer_1": "Representing infinity",
+    "answer_2": "Storing large numbers",
+    "answer_3": "Representing an invalid number",
+    "answer_4": "Creating random numbers",
+    "right_answer": "Representing an invalid number"
+  },
+
+  {
+    "title": "What is the purpose of the 'try...catch' statement in JavaScript?",
+    "answer_1": "To create a new function",
+    "answer_2": "To execute code regardless of errors",
+    "answer_3": "To catch and handle exceptions or errors",
+    "answer_4": "To define a new variable",
+    "right_answer": "To catch and handle exceptions or errors"
+  },
+
+  {
+    "title": "What is a closure in JavaScript?",
+    "answer_1": "A function that has access to the parent function's scope even after the parent function has executed",
+    "answer_2": "A private function that cannot be accessed from outside",
+    "answer_3": "A function with no parameters",
+    "answer_4": "A function that takes another function as an argument",
+    "right_answer": "A function that has access to the parent function's scope even after the parent function has executed"
+  },
+
+  {
+    "title": "How do you create a new object in JavaScript using the constructor pattern?",
+    "answer_1": "let myObject = new Object();",
+    "answer_2": "create new Object myObject;",
+    "answer_3": "new myObject = Object();",
+    "answer_4": "let myObject = {};",
+    "right_answer": "let myObject = new Object();"
+  },
+
+  {
+    "title": "What is the purpose of the 'break' statement in JavaScript?",
+    "answer_1": "To exit a loop or switch statement",
+    "answer_2": "To pause the execution of a script",
+    "answer_3": "To create a new variable",
+    "answer_4": "To add a line break in text",
+    "right_answer": "To exit a loop or switch statement"
+  },
+
+  {
+    "title": "How do you round a number to the nearest integer in JavaScript?",
+    "answer_1": "Math.round(num);",
+    "answer_2": "round(num);",
+    "answer_3": "num.round();",
+    "answer_4": "Math.nearest(num);",
+    "right_answer": "Math.round(num);"
+  },
+
+  {
+    "title": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "answer_1": "To fetch data from a remote server",
+    "answer_2": "To store key-value pairs in the web browser",
+    "answer_3": "To define a new function",
+    "answer_4": "To encrypt data",
+    "right_answer": "To store key-value pairs in the web browser"
+  },
+
+  {
+    "title": "What does 'AJAX' stand for in web development?",
+    "answer_1": "Asynchronous JavaScript and XML",
+    "answer_2": "Advanced JavaScript and XML",
+    "answer_3": "Automatic JavaScript and XHTML",
+    "answer_4": "All JavaScript and XHR",
+    "right_answer": "Asynchronous JavaScript and XML"
+  },
+
+  {
+    "title": "How do you add an element to the end of an array in JavaScript?",
+    "answer_1": "array.add(element);",
+    "answer_2": "array.push(element);",
+    "answer_3": "array.append(element);",
+    "answer_4": "array.insert(element);",
+    "right_answer": "array.push(element);"
+  },
+
+  {
+    "title": "What is the purpose of the 'Math.random()' function in JavaScript?",
+    "answer_1": "To generate a random number between 1 and 10",
+    "answer_2": "To create a random string",
+    "answer_3": "To generate a random floating-point number between 0 and 1",
+    "answer_4": "To select a random element from an array",
+    "right_answer": "To generate a random floating-point number between 0 and 1"
+  }
+]
